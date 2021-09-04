@@ -17,7 +17,6 @@
 
 * [Objective ](#objective)
 * [Pre-Requisites](#pre-requisite)
-* [How To Contribute?](#how-to-contribute)
 * [Template for Contribution](#template-for-contribution)
 * [Projects](#projects)
 
