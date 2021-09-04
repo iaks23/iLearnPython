@@ -67,22 +67,13 @@ Please make sure your workstation is installed with Python 3, preferably.
 -----------
 
 3️⃣
-# How To Contribute? <a name="how-to-contribute"></a>
-
-
-
-
-
-----------
-
-4️⃣
 # Template for Contribution <a name="template-for-contribution"></a>
 
 
 
 ----------
 
-5️⃣
+4️⃣
 # Projects <a name="projects"></a>
 
 Here's the list of all the completed projects. 
