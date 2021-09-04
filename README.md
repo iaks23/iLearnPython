@@ -27,7 +27,11 @@
  
 I recently discovered in my journey as a budding Data Scientist that Python will be a crucial tool on a day-to-day basis. While several wonderful FREE online sources exist to teach yoou the nuances of a new language, I personally believe tat you'll learn better while doing. Learning anything new can be exhausting, but it need not be boring. 
 
-I've challenged myself to code projects that I find particularly interesting or want simulated! In this process, I would like for this repository to be a space for multiple beginners (or experts) like me, to contribute and help it grow. You would also learn version control this way! BONUS!
+I've challenged myself to code projects that I find particularly interesting or want simulated! In this process, I would like for this repository to be a space for multiple beginners (or experts) like me, to contribute and help it grow. You would also learn version control this way! 
+
+Two birds one stone? In the words of a wise Eleanor Shellstrop,
+
+![eleanor](https://github.com/iaks23/iLearnPython/blob/main/gifs/Eleanor.GIF)
 
 Credit goes to Leah Nguyen, whose mini-python-project idea has been a great source of inspiration in my learning journey. [Check her profile out here!](https://github.com/ndleah) 
 
@@ -68,6 +72,16 @@ Please make sure your workstation is installed with Python 3, preferably.
 
 3️⃣
 # Template for Contribution <a name="template-for-contribution"></a>
+
+![michael](https://github.com/iaks23/iLearnPython/blob/main/gifs/Micael.GIF)
+
+Making your way around GitHub can be really confusing at first, especially if you do not have a good idea about Git. Fear not, 
+
+
+
+
+
+Once you've got the hang of it, feel free to follow this <code>README.md</code> template below to add to your project, you are free to add your own as well.
 
 
 
