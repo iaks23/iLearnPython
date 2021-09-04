@@ -86,8 +86,13 @@ Please make sure your workstation is installed with Python 3, preferably.
 5️⃣
 # Projects <a name="projects"></a>
 
+Here's the list of all the completed projects. 
 
-
+|SNo|Project Name|Description|Created By|
+|---|---|---|---|
+|1| [7Up7Down](https://github.com/iaks23/iLearnPython/tree/main/7Up7Down)| A simple simulation of a popular party game played with dice, 7 Up 7 Down.|[A Sarathy](https://github.com/iaks23)|
+|2| [DotsnDash](https://github.com/iaks23/iLearnPython/tree/main/DotsnDash)| A piece of code that converts a user given word/phrase/sentence into Morse code, the encoded result will be printed out in dots and dashes.|[A Sarathy](https://github.com/iaks23)|
+|3| [Rock, Paper, Scissors](https://github.com/iaks23/iLearnPython/tree/main/RPS)| A simulated version of the infamous ROCK, PAPER, SCISSORS played against the computer in a best of 1 or 3 or 5 match. May the odds be ever in your favor.| [A Sarathy](https://github.com/iaks23)|
 
 
 -----
