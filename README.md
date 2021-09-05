@@ -112,3 +112,10 @@ Here's the list of all the completed projects.
 
 
 © Akshaya Parthasarathy, 2021 
+
+Feedback is always welcome, drop a message on
+
+[![GMAIL BADGE](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](akshaya.sarathy97@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akshaya-parthasarathy23)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/aks_sarathy_/)
+[![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/longstoryshort_)
