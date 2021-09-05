@@ -21,7 +21,7 @@
 * [Projects](#projects)
 
 
------------
+
  1️⃣
  # Objective <a name="objective"></a>
  
@@ -35,7 +35,7 @@ Two birds one stone? In the words of a wise Eleanor Shellstrop,
 
 Credit goes to Leah Nguyen, whose mini-python-project idea has been a great source of inspiration in my learning journey. [Check her profile out here!](https://github.com/ndleah) 
 
------------
+
 
 2️⃣
 # Pre-Requisites <a name="pre-requisite"></a>
@@ -68,7 +68,7 @@ Please make sure your workstation is installed with Python 3, preferably.
   </details>
 
 
------------
+
 
 3️⃣
 # Template for Contribution <a name="template-for-contribution"></a>
@@ -77,15 +77,25 @@ Please make sure your workstation is installed with Python 3, preferably.
 
 Making your way around GitHub can be really confusing at first, especially if you do not have a good idea about Git. Fear not, 
 
+Click to know more about [forking](https://docs.github.com/en/get-started/quickstart/fork-a-repo) & [cloning](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) a repo.
+
+> To clone this repo into your local system, use the following command on a Command Prompt/Terminal or [Github Desktop](https://desktop.github.com)
+
+```git
 
 
+git clone https://github.com/iaks23/iLearnPython.git
 
+```
+
+
+‼️ Make sure to always maintain a local copy of your work updated with the original repository to avoid conflicts during a pull request.
 
 Once you've got the hang of it, feel free to follow this <code>README.md</code> template below to add to your project, you are free to add your own as well.
 
+[ReadMe Template]()
 
 
-----------
 
 4️⃣
 # Projects <a name="projects"></a>
