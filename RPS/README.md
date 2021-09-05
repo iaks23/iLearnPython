@@ -3,12 +3,11 @@
 [![made-by-e](https://img.shields.io/badge/Go%20Back%20To-Repository-1f425f.svg)](https://github.com/iaks23/iLearnPython)
 
 
-# Rock, Paper, Scissors 
+# Rock, Paper, Scissors ✂️
 
 #### Difficult Level: Beginner 👶🏻
 
-A simple simulation of a popular party game played with dice, 7 Up 7 Down. Place your bets when prompted for input as 7U, 7D, or 7E to predict whether the sum of the two dies will be greater, smaller, or equal to the number 7.
-
+A simulated version of the infamous ROCK, PAPER, SCISSORS played against the computer in a best of 1 or 3 or 5 match. May the odds be ever in your favor.
   
 ![RPS](https://github.com/iaks23/iLearnPython/blob/main/gifs/RPS.GIF)
   
