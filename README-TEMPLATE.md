@@ -4,15 +4,18 @@ A short description about the project and what one must do
 
 #### Difficulty Level: Beginner/Intermediate/Advanced
 
-# Concepts Covered 
+# Concepts Covered 📜
 
 * Bullet Pointed list about what Python concepts are being explored in the project
 
-# Implementation 
+# Implementation 🛠
 
 Steps on how to implement, please include additional steps if a library/package has to be installed.
 
 # Author 💡
 
-Due credit to whoever is the genius behind the code.  
+Due credit to whoever is the genius behind the code. Link your profile/socials here!
+
+
+#### Optional screenshot/demo of the program to give viewers a sneak peek!
 
