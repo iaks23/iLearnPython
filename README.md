@@ -25,7 +25,9 @@
  1️⃣
  # Objective <a name="objective"></a>
  
-I recently discovered in my journey as a budding Data Scientist that Python will be a crucial tool on a day-to-day basis. While several wonderful FREE online sources exist to teach yoou the nuances of a new language, I personally believe tat you'll learn better while doing. Learning anything new can be exhausting, but it need not be boring. 
+I recently discovered in my journey as a budding Data Scientist that Python will be a crucial tool on a day-to-day basis. While several wonderful FREE online sources exist to teach you the nuances of a new language, I personally believe that you learn better by doing. 
+
+Learning anything new can be exhausting, but it need not be boring. 
 
 I've challenged myself to code projects that I find particularly interesting or want simulated! In this process, I would like for this repository to be a space for multiple beginners (or experts) like me, to contribute and help it grow. You would also learn version control this way! 
 
@@ -82,16 +84,13 @@ Click to know more about [forking](https://docs.github.com/en/get-started/quicks
 > To clone this repo into your local system, use the following command on a Command Prompt/Terminal or [Github Desktop](https://desktop.github.com)
 
 ```git
-
-
 git clone https://github.com/iaks23/iLearnPython.git
-
 ```
 
 
 ‼️ Make sure to always maintain a local copy of your work updated with the original repository to avoid conflicts during a pull request.
 
-Once you've got the hang of it, feel free to follow this <code>README.md</code> template below to add to your project, you are free to add your own as well.
+Once you've got the hang of it, follow this <code>README.md</code> template linked below to add to your project, you are free to add your own flair to it as well.
 
 [ReadMe Template]()
 
