@@ -92,7 +92,7 @@ git clone https://github.com/iaks23/iLearnPython.git
 
 Once you've got the hang of it, follow this <code>README.md</code> template linked below to add to your project, you are free to add your own flair to it as well.
 
-[ReadMe Template]()
+[ReadMe Template](https://github.com/iaks23/iLearnPython/blob/main/README-TEMPLATE.md)
 
 
 
