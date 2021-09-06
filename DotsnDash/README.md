@@ -5,11 +5,11 @@
 
 # DotsnDash 🎲
 
-#### Difficult Level: Beginner 👶🏻
+#### Difficulty Level: Beginner 👶🏻
 
-Why boter mugging up every dots and dashes involved in sending a morse code when a computer can do it for you! This program will help you encode whatever phrase you wish to send as a secret message written in morse. 
+Why bother mugging up every dots and dashes involved in sending a morse code when a computer can do it for you! This program will help you encode whatever phrase you wish to send as a secret message written in morse. 
 
-Let's ust hope nobody's asking you,
+Let's just hope nobody's asking you,
 
 ![Morse](https://github.com/iaks23/iLearnPython/blob/main/gifs/Morse.GIF)
   
