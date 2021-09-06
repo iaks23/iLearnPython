@@ -5,7 +5,7 @@
 
 # Rock, Paper, Scissors ✂️
 
-#### Difficult Level: Beginner 👶🏻
+#### Difficulty Level: Beginner 👶🏻
 
 A simulated version of the infamous ROCK, PAPER, SCISSORS played against the computer in a best of 1 or 3 or 5 match. May the odds be ever in your favor.
   
@@ -16,6 +16,7 @@ A simulated version of the infamous ROCK, PAPER, SCISSORS played against the com
 
 * Random Module
 * Python Conditionals
+* Loops
 
 # Implementation 💻
 
