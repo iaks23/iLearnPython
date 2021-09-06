@@ -5,7 +5,7 @@
 
 # 7 Up 7 Down 🎲
 
-#### Difficult Level: Beginner 👶🏻
+#### Difficulty Level: Beginner 👶🏻
 
 A simple simulation of a popular party game played with dice, 7 Up 7 Down. Place your bets when prompted for input as 7U, 7D, or 7E to predict whether the sum of the two dies will be greater, smaller, or equal to the number 7.
 
