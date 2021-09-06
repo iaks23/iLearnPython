@@ -3,9 +3,9 @@
 [![made-by-e](https://img.shields.io/badge/Go%20Back%20To-Repository-1f425f.svg)](https://github.com/iaks23/iLearnPython)
 
 
-# Guess The Movie 
+# Guess The Movie 🎞
 
-### Difficulty Level: Beginner 
+### Difficulty Level: Beginner 👶🏻
 
 If you can't seem to land on a netflix suggestion, why not play a fan favorite game to guess some well known blockbusters! 
 Put on your thinking caps, an innocent man's life depends on it.
