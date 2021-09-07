@@ -8,6 +8,7 @@ def hangman(word):
     tries = 10
     validchars= 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     guessed_letters = ''
+    guessed_words = ''
     
     while tries > 0:
         word_completion = ""
@@ -32,6 +33,20 @@ def hangman(word):
         elif guess in guessed_letters:
             print("You've already tried that letter! Try another one.")
             print("\n")
+            
+        elif len(guess) > 1 and guess != word and guess not in guessed_words:
+            guessed_words += guess
+            tries -= 1
+            
+        elif len(guess) > 1 and guess != word and guess in guessed_words:
+            print("You've already guessed that word. Try again.")
+            tries -= 1
+            
+            
+        elif len(guess) > 1 and guess == word:
+            print("You win! You guessed it right!")
+            print("\n")
+            break
         
         else:
             print("Enter a valid char")
@@ -107,6 +122,8 @@ def hangman(word):
             print("     / \     ")
             print("\n")
             break
+
+
 
 def play():
     print("Welcome to Hangman! Try to guess the movie in 10 attempts!")
