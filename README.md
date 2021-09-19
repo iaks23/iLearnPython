@@ -107,7 +107,7 @@ Here's the list of all the completed projects.
 |2| [DotsnDash](https://github.com/iaks23/iLearnPython/tree/main/DotsnDash)| A piece of code that converts a user given word/phrase/sentence into Morse code, the encoded result will be printed out in dots and dashes.|[A Sarathy](https://github.com/iaks23)|
 |3| [Rock, Paper, Scissors](https://github.com/iaks23/iLearnPython/tree/main/RPS)| A simulated version of the infamous ROCK, PAPER, SCISSORS played against the computer in a best of 1 or 3 or 5 match. May the odds be ever in your favor.| [A Sarathy](https://github.com/iaks23)|
 |4| [Guess The Movie](https://github.com/iaks23/iLearnPython/tree/main/Guess_The_Movie)| A simple code to simulate a fan favorite game to guess some well known blockbusters! Put on your thinking caps, an innocent man's life depends on it. | [A Sarathy](https://github.com/iaks23)|
-
+|5| [Mini Python](https://github.com/iaks23/iLearnPython/tree/main/Mini_Python)|Bring back memories from the good old 90s & early 2000s by recreating the infamous SNAKE game for 3 different levels. Your objective is to help this mini python grow bigger in size with every bite of the apple it takes (it's a vegetarian python) without letting it crash into itself!| [A Sarathy](https://github.com/iaks23)|
 
 -----
 
