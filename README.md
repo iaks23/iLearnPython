@@ -108,6 +108,7 @@ Here's the list of all the completed projects.
 |3| [Rock, Paper, Scissors](https://github.com/iaks23/iLearnPython/tree/main/RPS)| A simulated version of the infamous ROCK, PAPER, SCISSORS played against the computer in a best of 1 or 3 or 5 match. May the odds be ever in your favor.| [A Sarathy](https://github.com/iaks23)|
 |4| [Guess The Movie](https://github.com/iaks23/iLearnPython/tree/main/Guess_The_Movie)| A simple code to simulate a fan favorite game to guess some well known blockbusters! Put on your thinking caps, an innocent man's life depends on it. | [A Sarathy](https://github.com/iaks23)|
 |5| [Mini Python](https://github.com/iaks23/iLearnPython/tree/main/Mini_Python)|A simulation of the evergreen fan-favorite mobile game, Snake, made with Pygame.| [A Sarathy](https://github.com/iaks23)|
+|6| [Horror House](https://github.com/iaks23/iLearnPython/tree/main/HorrorHouse)|A text based choose your own adventure game, not for the weak hearted.| [A Sarathy](https://github.com/iaks23)|
 
 -----
 
