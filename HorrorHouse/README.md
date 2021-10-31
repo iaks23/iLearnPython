@@ -19,18 +19,6 @@ A text based choose your own adventure game with multiple options to take you on
  * Conditionals
  * Dictionary
 
-# Dependencies ⚙️
-
-You will require Pygame to ensure the smoth running of the game. On your terminal window, assuming [Pip](https://pip.pypa.io/en/stable/installation/) is installed, run the following command:
-
-```python
-pip install pygame
-```
-> 💎 tip: you can also do this using Jupyter notebook!
-
-# Customization 👗
-
-Pygame allows for a lot of customizatioon options including [shapes](https://www.pygame.org/docs/ref/draw.html) and [colors](https://www.webucator.com/article/python-color-constants-module/). You need not necessarily stick to the default ones I've chosen!
 
 # Implementation 💻
 
