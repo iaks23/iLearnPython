@@ -1,5 +1,5 @@
 print("Welcome to Horror House, tread carefully...\n")
-print("Press 100 to stop playing iin case it gets too scary for you...\n")
+print("Press 100 to stop playing in case it gets too scary for you...\n")
 choice = input("You're walking your dog, Rufus, and see an abandoned house. Do you: \n Explore (Press 7) \n Walk Away (Press 4) \n Let Rufus Decide (Press 10) \n")
 ChoiceDict = {
     1: "The girl is angry. The broom handle whips out of your hands and lodges itself down yoour throat. You suffocate. You die.",
@@ -21,7 +21,8 @@ ChoiceDict = {
     17: "Rufus attacks you in your sleep. Your jugular bitten, you bleed to death.",
     18: "The young girl tries to take your hand and lead yoou away, Do you: \n Go with her (Press 20) \n Refuse and stay where you are. (Press 1) \n",
     19: "After waiting for 3 days, Rufus finally returns but doesn't seem like himself. Do you \n Ignore it. Happy he's home. (Press 17) \n Take him to the house to try and figure out why (Press 7)\n",
-    20: "Ghosts appear. You fall to the floor and cannot move. Eventually, you die of dehydration, surrounded only by apparitions."
+    20: "Ghosts appear. You fall to the floor and cannot move. Eventually, you die of dehydration, surrounded only by apparitions.",
+    100: "Sad to see you go. The house will be waiting for you."
 }
 endgame = [1, 5, 13, 14, 17, 20, 100]
 
@@ -31,7 +32,7 @@ while(choice not in endgame):
     ChoiceDict.get(choice)
 
     if choice == 100:
-        print("Sad to see you go. The house will be waiting for you.")
+        print(ChoiceDict.get(100))
     
     elif choice == 20:
         print(ChoiceDict.get(20))
